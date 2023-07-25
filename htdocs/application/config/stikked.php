@@ -25,10 +25,10 @@ $config['base_url'] = 'https://yourpastebin.com/';
  * The database structure will be created automatically
  *
  */
-$config['db_hostname'] = '127.0.0.1';
-$config['db_database'] = 'stikked';
-$config['db_username'] = 'stikked';
-$config['db_password'] = 'stikked';
+$config['db_hostname'] = 'https://db4free.net/phpMyAdmin/';
+$config['db_database'] = 'dx404_20231';
+$config['db_username'] = 'dx404_20232';
+$config['db_password'] = 'tUT_m9Bm9Gm*_43';
 
 // If you are using sqlite:
 // uncomment the configuration lines below.
